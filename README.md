@@ -1,11 +1,26 @@
-# SFML
+# Mandelbrot and Julia Sets Generator using SFML
 
-this is a project that generates mandelbrot or julias sets based on an input constant 
+This project generates Mandelbrot or Julia sets based on an input constant.
 
-for mandelbrot, your input should be 0 0 for the constant, else you will be generating a julia set with your input constant 
+- **Mandelbrot Set**: Use the input constant `{0, 0}`.
+- **Julia Set**: Use any other input constant to generate a Julia set.
 
-Examples 
+## Installation
 
-mandelbrot with constant {0,0}
+Clone this repository and run it on your device using Visual Studio.
 
-![julia set example](sfml/assets/julia%set%example.png)
+### Prerequisites
+
+- Ensure you have the SFML libraries and other dependencies linked properly.
+- This project was built with SFML x86 on Windows. The libraries and dependencies included are for Windows only.
+- For other operating systems, please refer to the [SFML website](https://www.sfml-dev.org) for installation instructions.
+
+## Examples
+
+### Mandelbrot with constant `{0, 0}`
+
+![Mandelbrot set example](sfml/assets/mandelbrot_example.png)
+
+### Julia Set with a specific constant
+
+![Julia set example](sfml/assets/julia%20set%20example.png)
