@@ -8,4 +8,4 @@ Examples
 
 mandelbrot with constant {0,0}
 
-![julia set example](sfml/assets/julia set example.png)
+![julia set example](sfml/assets/julia%set%example.png)
