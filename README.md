@@ -19,7 +19,7 @@ Clone this repository and run it on your device using Visual Studio.
 
 ### Mandelbrot with constant `{0, 0}`
 
-![Mandelbrot set example](sfml/assets/mandelbrot%example.png)
+![Mandelbrot set example](sfml/assets/mandelbrot%20example.png)
 
 ### Julia Set with a `{-0.8, 0.156}` constant
 
