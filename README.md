@@ -7,3 +7,5 @@ for mandelbrot, your input should be 0 0 for the constant, else you will be gene
 Examples 
 
 mandelbrot with constant {0,0}
+
+![julia set example](sfml/assets/julia set example.png)
